@@ -13,13 +13,8 @@
 <h4> ⚙️ Framework & Middleware<h4> 
 <img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=Redux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ReduxSaga
--green?style=flat-square&logo=Redux-Saga
-&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostCss
--DD3A0A?style=flat-square&logo=PostCss
-&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/ReduxSaga-green?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/></a>
 <h4> ⚙️ management & Tool<h4> 
 <img src="https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-gray?style=flat-square&logo=Firebase&logoColor=yellow"/></a>
