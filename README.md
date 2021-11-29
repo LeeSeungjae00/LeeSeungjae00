@@ -20,3 +20,10 @@
 <img src="https://img.shields.io/badge/Firebase-gray?style=flat-square&logo=Firebase&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/></a>
+
+<hr/>
+
+<h3 align="center">📞 Contect 📞</h3> 
+
+<p><b>📧 Mail</b> : seungjae2668@naver.com </p>
+<p><b>💁‍♂️ Portfolio</b> : <a href = "https://lsjportfolio.netlify.app/">lsj's portfolio</a> </p>
