@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Firebase-gray?style=flat-square&logo=Firebase&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/slack-red?style=flat-square&logo=slack&logoColor=white"/>
 
 <hr/>
 
