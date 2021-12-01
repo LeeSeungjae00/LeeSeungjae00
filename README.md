@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReduxSaga-green?style=flat-square&logo=Redux-Saga&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-orange?style=flat-square&logo=Jest&logoColor=white"/>
+
 <h4> 🐈&nbsp;management & Tool<h4> 
 <img src="https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-gray?style=flat-square&logo=Firebase&logoColor=yellow"/>
