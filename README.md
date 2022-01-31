@@ -16,13 +16,13 @@
 <img src="https://img.shields.io/badge/ReduxSaga-green?style=flat-square&logo=Redux-Saga&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jest-orange?style=flat-square&logo=Jest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Testing Library-red?style=flat-square&logo=Testing Library&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestingLibrary-red?style=flat-square&logo=TestingLibrary&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cypress-black?style=flat-square&logo=Cypress&logoColor=white"/>
 
 <h4> 🐈&nbsp;management & Tool<h4> 
 <img src="https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-gray?style=flat-square&logo=Firebase&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-blue?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/slack-red?style=flat-square&logo=slack&logoColor=white"/>
 
