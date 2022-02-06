@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Jest-orange?style=flat-square&logo=Jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestingLibrary-red?style=flat-square&logo=TestingLibrary&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cypress-black?style=flat-square&logo=Cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
 
 <h4> 🐈&nbsp;management & Tool<h4> 
 <img src="https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white"/>
