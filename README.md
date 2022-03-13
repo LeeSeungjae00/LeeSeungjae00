@@ -13,7 +13,6 @@
 <h4> ⚙️&nbsp;Framework & Middleware<h4> 
 <img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReduxSaga-green?style=flat-square&logo=Redux-Saga&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jest-orange?style=flat-square&logo=Jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestingLibrary-red?style=flat-square&logo=TestingLibrary&logoColor=white"/>
