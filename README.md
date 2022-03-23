@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20SEUNGJAE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Front%20End%20developer&descAlignY=51&descAlign=62)
 
-![image](https://user-images.githubusercontent.com/77383581/159659157-5430aa87-6b44-4d49-9ac9-d4e314391c5a.png)
 
 <h3 align="center">👨‍💻 stack 👨‍💻</h3> 
 
@@ -34,3 +33,12 @@
 
 <p><b>📧&nbsp;Mail</b> : seungjae2668@naver.com </p>
 <p><b>💁‍♂️&nbsp;Portfolio</b> : <a href = "https://lsjportfolio.netlify.app/">lsj's portfolio</a> </p>
+
+<hr/>
+  
+<h3 align="center">🍌 Code Me 🍌</h3> 
+  
+![image](https://user-images.githubusercontent.com/77383581/159660252-faa7004d-e7cf-44f4-8b26-101ab9b29715.png)
+  
+
+  
