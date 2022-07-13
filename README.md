@@ -3,7 +3,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrdud6412)](https://solved.ac/leeseungjae)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeseungjae)](https://solved.ac/leeseungjae)
 
 <h3 align="center">👨‍💻 stack 👨‍💻</h3> 
 
