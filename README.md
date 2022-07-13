@@ -1,10 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20SEUNGJAE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Front%20End%20developer&descAlignY=51&descAlign=62)
 
-<div align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeseungjae)](https://solved.ac/leeseungjae)
-</div>
+
+
 <h3 align="center">👨‍💻 stack 👨‍💻</h3> 
 
 <h4> 📒&nbsp;Language <h4> 
