@@ -4,8 +4,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeseungjae)](https://solved.ac/leeseungjae)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeSeungjae00%2Fhit-counter&count_bg=%233D8E00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%A4%9A+HITS%21+%F0%9F%A4%9A&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center">👨‍💻 stack 👨‍💻</h3> 
+
 
 <h4> 📒&nbsp;Language <h4> 
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
